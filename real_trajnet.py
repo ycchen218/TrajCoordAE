@@ -27,14 +27,14 @@ args = {
     'display_width': 800,
     'display_height': 600,
     'cam': -1,
-    'weights': './DeepSORT_YOLOv5_Pytorch-master/yolov5/weights/yolov5s.pt',
+    'weights': './YOLO_weight/yolov5s.pt',
     'img_size': 640,
     'conf_thres': 0.5,
     'iou_thres': 0.5,
     'classes': [0],
     'agnostic_nms': True,
     'augment': True,
-    'config_deepsort': './DeepSORT_YOLOv5_Pytorch-master/configs/deep_sort.yaml'
+    'config_deepsort': './deepsort_configs/deep_sort.yaml'
 }
 
 import torch
