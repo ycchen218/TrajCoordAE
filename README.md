@@ -22,7 +22,7 @@ This research focuses on developing a solution for the challenge of creating mod
 ![image](https://github.com/ycchen218/TrajCoordAE/blob/master/git_image/traj.png)
 ## Model Overview
 ![image](https://github.com/ycchen218/TrajCoordAE/blob/master/git_image/model_overview.png)
-## End-to-End real-time Result
+## End-to-End Real-time Result
 YOLOv5+DeepSORT+CoordAutoencoder
 ![image](https://github.com/ycchen218/TrajCoordAE/blob/master/git_image/movie.gif)
 
